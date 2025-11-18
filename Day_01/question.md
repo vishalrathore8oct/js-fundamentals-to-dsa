@@ -202,3 +202,53 @@ Fizz
 ```
 7
 ```
+
+---
+
+### **5. Problem Statement**
+
+Write a program that takes a student's score as an integer input (0 to 100) and prints the corresponding grade based on the following rules:
+
+* **90 to 100 → "A"**
+* **80 to 89 → "B"**
+* **70 to 79 → "C"**
+* **60 to 69 → "D"**
+* **Below 60 → "F"**
+
+---
+
+### **Constraints**
+
+* Do **not** use any inbuilt functions, methods, or external libraries.
+* Assume input is always between **0 and 100** inclusive.
+
+---
+
+### **Sample Input 1**
+
+```
+85
+```
+
+### **Sample Output 1**
+
+```
+B
+```
+
+---
+
+### **Sample Input 2**
+
+```
+52
+```
+
+### **Sample Output 2**
+
+```
+F
+```
+
+---
+
